@@ -4,6 +4,7 @@ find_path(LIBUSB_INCLUDE_DIR
     PATHS
         /usr/local/include
         /opt/local/include
+        /usr/local/Cellar/libusb/1.0.22
         /usr/include
     PATH_SUFFIXES
         libusb-1.0
