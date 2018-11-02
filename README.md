@@ -4,11 +4,10 @@
 Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
 This is a clone of the [Gitlab maintained version](https://gitlab.com/BenjaminDobell/Heimdall)
-with fixes from:
+with fixes from the following issues to properly compile on macOS:
 
 * [428](https://github.com/Benjamin-Dobell/Heimdall/issues/428)
-
-to allow for macOS compilation
+* [466](https://github.com/Benjamin-Dobell/Heimdall/issues/466)
 
 ## Supported Platforms
 
