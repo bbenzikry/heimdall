@@ -1,14 +1,21 @@
+
 # Heimdall
 
 Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+
+This is a clone of the [Gitlab maintained version](https://gitlab.com/BenjaminDobell/Heimdall)
+with fixes from the following issues to properly compile on macOS:
+
+* [428](https://github.com/Benjamin-Dobell/Heimdall/issues/428)
+* [466](https://github.com/Benjamin-Dobell/Heimdall/issues/466)
 
 ## Supported Platforms
 
 Officially, AMD64/x86-64 (64-bit) or x86 (32-bit) computers running:
 
- * Linux
- * macOS
- * Windows (XP, Vista, 7 etc.)
+* Linux
+* macOS
+* Windows (XP, Vista, 7 etc.)
 
 However, several third-parties have reported success running Heimdall on ARM chipsets
 (in particular Raspberry Pi), as well as additional operating systems such as FreeBSD.
